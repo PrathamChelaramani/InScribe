@@ -20,10 +20,22 @@ Cross-Platform: Compatible with Windows, macOS, and Linux.
 
 <h3>For Using this project:</h3>
 
-1)Clone the repository: git clone https://github.com/PrathamChelaramani/inscribe.git
+1)Clone the repository:
+```sh
+git clone https://github.com/PrathamChelaramani/inscribe.git
+```
 
-2)Navigate: cd inscribe
+2)Navigate: 
+```sh
+cd inscribe
+```
 
-3)Install the required dependencies: pip install -r requirements.txt
+3)Install the required dependencies: 
+```sh
+pip install -r requirements.txt
+```
 
-4)Run the Application: python inscribe.py
+4)Run the Application: 
+```sh
+python inscribe.py
+```
